@@ -1,0 +1,3 @@
+/home/runner/work/OOP_projektas/OOP_projektas/build/CMakeFiles/shop.dir
+/home/runner/work/OOP_projektas/OOP_projektas/build/CMakeFiles/edit_cache.dir
+/home/runner/work/OOP_projektas/OOP_projektas/build/CMakeFiles/rebuild_cache.dir
