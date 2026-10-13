@@ -1,0 +1,3 @@
+/Users/justasskruibys/Desktop/OOP_projektas/build/CMakeFiles/shop.dir
+/Users/justasskruibys/Desktop/OOP_projektas/build/CMakeFiles/edit_cache.dir
+/Users/justasskruibys/Desktop/OOP_projektas/build/CMakeFiles/rebuild_cache.dir

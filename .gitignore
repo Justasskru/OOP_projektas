@@ -1,0 +1,101 @@
+# ===== Build aplankai =====
+build/
+build-*/
+cmake-build-*/
+out/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# ===== CMake sugeneruoti failai =====
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+_deps/
+compile_commands.json
+Makefile
+
+# ===== Kompiliuoti failai =====
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+*.pch
+*.gch
+*.d
+*.slo
+*.lo
+*.la
+*.lai
+
+# ===== Debug / profiling =====
+*.dSYM/
+*.pdb
+*.ilk
+*.exp
+*.log
+core
+core.*
+*.stackdump
+
+# ===== Visual Studio =====
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.sln.docstates
+*.ncb
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+ipch/
+
+# ===== VS Code =====
+.vscode/
+
+# ===== CLion / JetBrains =====
+.idea/
+*.iml
+
+# ===== Xcode =====
+xcuserdata/
+*.xcodeproj/
+*.xcworkspace/
+DerivedData/
+
+# ===== macOS =====
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ===== Windows =====
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ===== Redaktorių laikini failai =====
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# ===== Projekto duomenys (programos sugeneruoti) =====
+# Jei FileOrderRepository rašo į orders.txt / orders.csv, nenorite jų commitinti:
+orders.txt
+orders.csv
+data/
